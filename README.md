@@ -54,7 +54,7 @@ I a l'interior de cada fitxer caldrà que feu apareixer **TOTA** la informació 
 |Armijo Carcamo, Benjamin Alonso|Armijo|A|||
 |Bermudez, Xavier|Bermudez|C|||
 |Bueno Arola, Max|Bueno|A|||
-|Carbó Garcia, Marc|Carbo|Cv
+|Carbó Garcia, Marc|Carbo|C|||
 |Corral Garcia, Pau|Corral|B|||
 |De los Reyes Galban, Ismael|DeLosReyes|B|||
 |De Paco Ripoll, Moisés|DePaco|A|||
