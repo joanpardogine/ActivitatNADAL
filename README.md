@@ -14,7 +14,7 @@ Cal que feu un enunciat, per a cada apartat que es mostra a continuació, com si
 
 Recordeu que, per a cada apartat, cal:
 1. Que formuleu un enunciat,
-1. Aporteu la consulta que restol l'enunuciat que demaneu i
+1. Aporteu la consulta que resol l'enunciat que demaneu i
 1. El resultat que torna la consulta.
 
 
@@ -24,7 +24,7 @@ Els apartats són els següents:
 1. Fer una consulta que retorni un recompte de registres d'una altra taula.(**```<CognomNomDelAlumne>```**```_En_002.sql```)
 1. Fer una consulta que faci servir una subconsulta. (**```<CognomNomDelAlumne>```**```_En_003.sql```)
     * Recordeu que una subconsulta té el següent format:
-    ``` sql
+    ```sql
         SELECT ????	
         FROM ????
         WHERE ??? = (SELECT ????	
