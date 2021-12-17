@@ -1,6 +1,6 @@
 # Activitat NADAL
 
-## **Alumne**: Armijo Carcamo, Benjamin Alonso
+## **Alumne**: CognomAlumne, NomAlumne
 
 ### Base de dades a fer servir
 
@@ -46,28 +46,6 @@ El nom del repositori cal que sigui:
 Els noms dels fitxers caldrà que tinguin el següent format.
 **```<CognomNomDelAlumne>```**```_En_001.sql```
 I a l'interior de cada fitxer caldrà que feu apareixer **TOTA** la informació demanada.
-
-
-
-
-A) empresa
-B) exemple  (ActAva_20211125)
-C) videoclub
-
-
-1) compta registres de la mateixa taula
-2) compta registres d'una altra taula
-3) subconsultes
-    SELECT ????    
-    FROM ????
-    WHERE ??? = (SELECT ????    
-                FROM ????
-                WHERE ???)
-                
-4) Concatenar = Edat actor = year(Curdate()) - anyNaixement
-5) Consulta i vincular minim tres taules
-
-
 
 
 
