@@ -32,7 +32,7 @@ Els apartats són els següents:
                     WHERE ???)
     ```
 				
-1. Fer una consulta que que concateni com a minim tres camps de la base de dades i que tingui un calcul aritmètic. Com per exemple el que feiem servir per calcular l'edat. (Edat actor = ```year(Curdate()) - anyNaixement```) (**```<CognomNomDelAlumne>```**```_En_004.sql```)
+1. Fer una consulta que concateni com a mínim tres camps de la base de dades i que tingui un càlcul aritmètic. Com per exemple el que fèiem servir per calcular l'edat. (Edat actor = ```year(Curdate()) - anyNaixement```) (**```<CognomNomDelAlumne>```**```_En_004.sql```)
 
 1. Fer una consulta que vinculi com a minim tres taules diferents. (**```<CognomNomDelAlumne>```**```_En_005.sql```)
 
